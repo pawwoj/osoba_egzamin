@@ -1,0 +1,6 @@
+Jan;Kowalski;30;Warszawa
+Zbigniew;Niewiadomski;12;Kraków
+Halina;Mostowiak;32;Warszawa
+Mariusz;Smagaj;50;Opole
+Monika;Oplaska;18;Opole
+Dorota;Psota;25;Elbląg

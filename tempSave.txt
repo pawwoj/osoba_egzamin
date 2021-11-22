@@ -1,0 +1,3 @@
+2
+Jan;Kowalski;30;Warszawa
+Mariusz;Smagaj;50;Opole
